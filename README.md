@@ -13,10 +13,7 @@
 2. 登录/注册 Deno https://dash.deno.com/
 3. 点击创建项目 https://dash.deno.com/new_project
 4. 选择此项目，填写项目名字（分配域名）
-5. 部署 Entrypoint 填写 `src/deno_index.ts` 其他字段留空 
-6. 点击 **Deploy Project**
-7. 部署成功后获得域名，可以作为Chat API的代理使用。
-8. 下载安装 **[Cherry Studio](https://cherry-ai.com/)** -> 设置 -> 添加模型服务 -> 输入域名和 Token -> 添加模型 -> 开启 AI 会话。
+
 
 ## Deno 调试
 
